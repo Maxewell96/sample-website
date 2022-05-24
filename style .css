@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+div{
+	background: #1C1AF3;
+	text-align: center;
+	color: aliceblue;
+	margin: 0;
+}
+P{
+	text-align: center;
+}
+h1{
+	text-align: center;
+	background: #ED139B;
+}
+float{
+	background: #F110B1;
+animation-duration: 0.2sec;
+}
+P1
+{text-align: left;
+background: #0B0FCC;
+color:#FBF9F9;
+
+	
+}
+P2{
+	text-align: end;
